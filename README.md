@@ -21,6 +21,15 @@ The project is structured as follows:
 6. **Comparative Analysis:** Comparison of timing effects across different channels.
 7. **Conclusion:** Summary of findings and actionable insights for content creators.
 
+### Notebooks Overview
+- **Notebook 1: Data Collection and Preparation**
+  - **Contents:** Fetches video data (upload times, views, likes, etc.) using the YouTube Data API. Includes data cleaning and preprocessing tasks.
+  - **Output:** A cleaned dataset ready for analysis.
+
+- **Notebook 2: Analysis and Visualization**
+  - **Contents:** Performs exploratory data analysis (EDA), correlation analysis, trend analysis, and comparisons across channels. Visualizations include scatter plots, line charts, and heatmaps.
+  - **Output:** Visualizations and insights addressing the guiding question.
+
 ## Technologies Used
 - **Python:** Primary programming language for data analysis.
 - **Pandas:** Used for data manipulation and analysis.
