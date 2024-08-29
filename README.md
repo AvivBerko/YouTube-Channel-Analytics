@@ -6,13 +6,9 @@ This project explores the relationship between the timing of video uploads and v
 **Guiding Question:** _"How does the timing of video uploads impact viewer engagement and channel growth?"_
 
 ## Key Insights
-- **Upload Timing**: Analysis shows significant differences in engagement based on upload time.
+- **Regular Upload Schedules:** Channels that consistently upload videos at regular and most important - short intervals tend to see steady growth in engagement and subscribers.
+- **Peak Upload Times:** Uploading videos during peak times (e.g., afternoons, monday/thursday) leads to higher engagement.
 - **Video Duration**: Shorter videos may perform better in terms of engagement.
-- **Regular Uploads**: Consistency in upload schedule positively impacts viewer engagement.
-
-## Key Insights
-- **Regular Upload Schedules:** Channels that consistently upload videos at regular intervals tend to see steady growth in engagement and subscribers.
-- **Peak Upload Times:** Uploading videos during peak times (e.g., evenings, weekends) leads to higher initial engagement.
 - **Correlation Analysis:** Strong correlations were found between upload timing and engagement metrics, emphasizing the importance of strategic timing for content creators.
 
 ## Project Structure
