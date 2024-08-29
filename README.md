@@ -30,7 +30,7 @@ The project is structured as follows:
 ## Setup Instructions
 To run this project locally, follow these steps:
 
-## Instructions for Creating the Conda Environment
+# Instructions for Creating the Conda Environment
 To create the Conda environment and install the necessary libraries, follow these steps:
 
 1. Create a New Environment:
