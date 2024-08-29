@@ -33,18 +33,34 @@ To run this project locally, follow these steps:
 # Instructions for Creating the Conda Environment
 To create the Conda environment and install the necessary libraries, follow these steps:
 
-1. Create a New Environment:
+1. Clone the Repository:
+   git clone https://github.com/your-username/your-repo-name.git
+   cd your-repo-name
+2. Create a New Environment:
    conda create --name youtube-analytics-env python=3.9
-2. Activate the Environment:
+3. Activate the Environment:
    conda activate youtube-analytics-env
-3. Install the Required Libraries:
+4. Install the Required Libraries:
    conda install pandas seaborn isodate google-api-python-client
-4. Verify the Installation:
+5. Verify the Installation:
    conda list
    Ensure that pandas, seaborn, isodate, and google-api-python-client are listed among the installed packages.
-5. Run the Jupyter Notebook:
+6. Run the Jupyter Notebook:
    jupyter notebook
    Open the notebook and start running the cells.
+
+   Additional Information
+   Data Privacy: Ensure that you have the necessary API keys and credentials to access YouTube Data API.
+   Contributions: Feel free to open issues or submit pull requests if you find any bugs or have suggestions for improvements.
+   Make sure to replace https://github.com/your-username/your-repo-name.git with the actual URL of your repository.
+
+
+
+
+
+
+
+
 
 
 
