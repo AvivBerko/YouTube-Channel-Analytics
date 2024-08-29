@@ -49,10 +49,10 @@ To create the Conda environment and install the necessary libraries, follow thes
    jupyter notebook
    Open the notebook and start running the cells.
 
-   Additional Information
-   Data Privacy: Ensure that you have the necessary API keys and credentials to access YouTube Data API.
-   Contributions: Feel free to open issues or submit pull requests if you find any bugs or have suggestions for improvements.
-   Make sure to replace https://github.com/your-username/your-repo-name.git with the actual URL of your repository.
+**Additional Information**
+Data Privacy: Ensure that you have the necessary API keys and credentials to access YouTube Data API.
+Contributions: Feel free to open issues or submit pull requests if you find any bugs or have suggestions for improvements.
+Make sure to replace https://github.com/your-username/your-repo-name.git with the actual URL of your repository.
 
 
 
